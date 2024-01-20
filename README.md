@@ -98,4 +98,6 @@ This Supply Chain Analytics Dashboard is designed to empower AtliQ Mart with act
 
 Feel free to explore the various sections of the dashboard to gain a holistic view of our supply chain performance. Together, we can achieve excellence in customer service and drive the success of AtliQ Mart!
 
+Dashboard Link :- https://codebasics.io/challenge/codebasics-resume-project-challenge
+
 
