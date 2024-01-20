@@ -6,7 +6,6 @@ Welcome to the AtliQ Mart Supply Chain Analytics Dashboard! This tool has been d
 
 **Project Challenge** :- https://codebasics.io/challenge/codebasics-resume-project-challenge
 
-
 **Dashboard** :- https://public.tableau.com/app/profile/raqib.aqeel/viz/SupplyChainDashboard_17040951093400/MetricsTargetsDashboard_
 
 **SQL Queries** :- https://github.com/raqibaqeel/Supply-Chain-Data-Analytics-Project/blob/main/Supply_chain_SQL%20Queries.sql
@@ -72,6 +71,16 @@ customer's point of view
 ## Dashboard :- 
 https://public.tableau.com/app/profile/raqib.aqeel/viz/SupplyChainDashboard_17040951093400/MetricsTargetsDashboard_
 
+#### Metrics and Target Dashboard
+![image](https://github.com/raqibaqeel/Supply-Chain-Data-Analytics-Project/assets/90096554/d1e01541-660a-44b7-a379-d13a05679f4f)
+
+#### Customer Dashboard
+![image](https://github.com/raqibaqeel/Supply-Chain-Data-Analytics-Project/assets/90096554/7c6ac3cf-8b7c-4079-8b1e-e756cbeace26)
+
+#### Product Dashboard
+![image](https://github.com/raqibaqeel/Supply-Chain-Data-Analytics-Project/assets/90096554/16ab4c0f-d16c-4fb7-84cd-95d1749ca1b8)
+
+### Overview
 Our dashboard provides a comprehensive view of the key metrics, allowing for quick analysis and identification of areas that need attention. Let's take a look at the main components:
 
 ### Trends
@@ -91,6 +100,21 @@ Evaluate the impact of different locations on our delivery metrics. This informa
 
 ### Time-of-Day Analysis
 Analyze delivery performance at different times of the day to identify patterns and potential bottlenecks in our operations.
+
+### INSIGHTS
+1.	52.78%of orders are delivered in full, 59.03% are delivered on time and 29.02% are delivered in full and on time.
+2.	Line Fill Rate is only about 66%, meaning many orders are not shipped in full. The fulfillment process is significantly delayed.
+3.	So a low fill rate may be a reason to take a closer look at different steps in your fulfillment process to see what’s causing delays.
+4.	Out of 32000 total orders, less than 10000 were shipped on time and in full.
+5.	VOFR is about 97% which means the quantity ordered is close to the amount delivered.
+6.	Customers mostly order dairy products. The Diary quantity ordered is close to double of food and beverage combined.
+7.	Average IF%, OT%, and OTIF % are way below the target %. Especially OTIF % which is considerably below its target. After looking at month-wise data, there weren’t any improvements in these percentages.
+8.	Not Fully delivered items are mostly from Dairy. AM Milk 100g is the largest undelivered item.
+9.	Delayed orders are mainly from Dairy. Out of 13k order lines which are delayed, more than 11k are from Diary.
+10.	Looking at ‘delayed orders by City‘donut chart, we can see that delay happens mostly in Ahmedabad, closely followed by Vadodara.
+11.	Lotus Mart in Ahmedabad and Cool Blue in Vadodara have a very low Otif % 
+12.	Elite Mart in Vadodara has the lowest IF %
+13.	Some stores have LIFR % much lower than the average 66%. Even their VOFR % is pretty low compared to the rest
 
 ## Conclusion
 
