@@ -5,7 +5,6 @@
 Welcome to the AtliQ Mart Supply Chain Analytics Dashboard! This tool has been developed to address and monitor key metrics related to the delivery service level of our customers. As Peter Pandey, the data analyst, I am excited to present this dashboard that will help us track and improve our on-time and in-full delivery performance.
 
 **Dashboard**:- https://public.tableau.com/app/profile/raqib.aqeel/viz/SupplyChainDashboard_17040951093400/MetricsTargetsDashboard_
-
 **SQL Queries** :- https://github.com/raqibaqeel/Supply-Chain-Data-Analytics-Project/blob/main/Supply_chain_SQL%20Queries.sql
 ## Problem Sttement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
