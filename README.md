@@ -6,8 +6,6 @@ Welcome to the AtliQ Mart Supply Chain Analytics Dashboard! This tool has been d
 
 **Project Challenge** :- https://codebasics.io/challenge/codebasics-resume-project-challenge
 
-**Dashboard** :- https://public.tableau.com/app/profile/raqib.aqeel/viz/SupplyChainDashboard_17040951093400/MetricsTargetsDashboard_
-
 **SQL Queries** :- https://github.com/raqibaqeel/Supply-Chain-Data-Analytics-Project/blob/main/Supply_chain_SQL%20Queries.sql
 
 ## Problem Sttement
